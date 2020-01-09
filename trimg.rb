@@ -1,6 +1,6 @@
 TRIMG_VERSION='0.0.1'
 
-class CliSample < Formula
+class Trimg < Formula
   # ダウンロードファイルのURL
   url "https://github.com/esakat/trimg/releases/download/v#{TRIMG_VERSION}/trimg_#{TRIMG_VERSION}_darwin_amd64.tar.gz"
   homepage "https://github.com/esakat/trimg"
